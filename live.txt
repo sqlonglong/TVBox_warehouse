@@ -1,8 +1,8 @@
-🇨🇳河南地方,#genre#
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b5786307e88a6297921a23c9d99305ac&wsTime=1702097117
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=a8bb44885c551f536ca21668d2a9df52&wsTime=1702097117
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=2e93a57c38e4a465b17ef29c6b0324d6&wsTime=1702097117
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=9652ce00d37dd47b5392537c4212c64d&wsTime=1702097117
+🇨🇳河南地方，#流派#
+河南卫视，http://tvcdn . stream 3 . hndt . com/TV/65 C4 a6d 5017 e 1000 b 2 b 6 ea 2500000000 _ transios/playlist . m3u 8？ws secret = b 5786307 e88a 6297921 a 23 c9d 99305 AC & ws time = 1702097117
+新闻频道，http://tvcdn . stream 3 . hndt . com/TV/65bb 6966017 e 100059 b75a 8500000000 _ transios/playlist . m3u 8？ws secret = a8bb 44885 c 551 f 536 ca 21668 D2 a9 df 52 & ws time = 1702097117
+都市频道，http://tvcdn . stream 3 . hndt . com/TV/65 C3 FBC 5017 e 1000 FDE 13 FAA 00000000 _ transios/playlist . m3u 8？ws secret = 2e 93 a57 c 38 E4 a 465 b 17 ef 29 c6b 0324d 6 & ws time = 1702097117
+民生频道，http://tvcdn . stream 3 . hndt . com/TV/65 bef 28 a 017 e 10009 c 49 D5 f 900000000 _ transios/playlist . m3u 8？ws secret = 9652 ce 00d 37 DD 47 b 5392537 c 4212 c 64d & ws time = 1702097117
 法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=bd88167654ca51e2b57473d38f3aa011&wsTime=1702097117
 公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=44f6dc4c34701c8bf86336fa1fcdbc60&wsTime=1702097117
 河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=cd51dcf167eed972dbcc8dc47807775c&wsTime=1702097117
